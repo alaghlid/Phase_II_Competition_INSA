@@ -20,7 +20,7 @@ import datetime
 path_originale = "INSAnonym/c3465dad3864bb1e373891fdcfbfcca5f974db6a9e0b646584e07c5f554d7df7"
 
 # Path de la base anonymisée (à changer)
-path_anonymisee = "/media/alaghlid/Disque/Attack Dbs/Sibyl_483/files/S_user_40_2b9a2307d8c8d01b3885a20a7d22f25eccfa2d8c319c85521c3b1947994c4b82"
+path_anonymisee = "/media/alaghlid/Disque/Attack Dbs/dbm/files/S_user_40_2b9a2307d8c8d01b3885a20a7d22f25eccfa2d8c319c85521c3b1947994c4b82"
 
 # Path du fichier JSON généré (à changer)
 json_guesses = '../dbm.json'
